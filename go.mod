@@ -1,4 +1,4 @@
-module github.com/srikrsna/protoc-gen-mock
+module github.com/k-awa/protoc-gen-mock
 
 require (
 	github.com/bxcodec/faker v2.0.1+incompatible
